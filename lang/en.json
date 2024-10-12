@@ -1,0 +1,5 @@
+{
+    "LegHider.LegHiderEnabled": "LegHider {green}enabled{default} successfully!",
+    "LegHider.LegHiderDisabled": "LegHider {red}disabled{default} successfully!",
+    "LegHider.CannotSaveWithoutDatabase": "You cannot save the LegHider status without a database configured!"
+}
