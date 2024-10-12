@@ -4,10 +4,10 @@ A CounterStrikeSharp plugin that allows players to hide their legs in Counter-St
 
 ## Features
 - Toggle leg visibility with a simple command
-- Supports multiple languages (currently English and Portuguese)
+- Easy to use and configure
 - Optional MySQL integration for persistent settings across server restarts
 - Automatic saving of player preferences (with MySQL enabled)
-- Easy to use and configure
+- Supports multiple languages (currently English and Portuguese)
 
 > Without MySQL integration, player preferences will not be saved across server restarts.
 
