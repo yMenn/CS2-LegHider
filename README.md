@@ -20,7 +20,7 @@ A CounterStrikeSharp plugin that allows players to hide their legs in Counter-St
 ## Usage
 Players can use the following commands:
 - `!hidelegs` or `!pernas` - Toggle leg visibility
-- `!savelegs` - Save current leg visibility preference (requires MySQL)
+- `!savelegs` or `!savehl` or `!savepernas`- Save current leg visibility preference (requires MySQL)
 
 ## Configuration
 The plugin will generate a config file at `counterstrikesharp/configs/plugins/CS2-LegHider/CS2-LegHider.json`. You can configure the following options:
